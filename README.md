@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1036-rotting-oranges) |
+| [1603-running-sum-of-1d-array](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1603-running-sum-of-1d-array) |
 ## Union Find
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1036-rotting-oranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
