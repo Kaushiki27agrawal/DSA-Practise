@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0062-unique-paths) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Array
@@ -75,4 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0803-cheapest-flights-within-k-stops) |
+## Math
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
