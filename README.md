@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
