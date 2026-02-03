@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1036-rotting-oranges](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1036-rotting-oranges) |
 | [1603-running-sum-of-1d-array](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1603-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1929-concatenation-of-array) |
 ## Union Find
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/0070-climbing-stairs) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Kaushiki27agrawal/DSA-Practise/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
